@@ -1,4 +1,4 @@
-# Huffman Compression
+kys faggot, lmfao jk. ur compression is poop. like dogshit bro. kys bc u cant program. lul OMEGALUL ur programming skills. LMFAOOOOOOOOOOOOOOOO Huffman Compression is ass, just like your programming skills.# Huffman Compression
 
 This is just a concept so far bc the compressed file isn't
 encoded as binary yet so it doesn't actually compress.
